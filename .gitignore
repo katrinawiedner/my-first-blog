@@ -6,4 +6,7 @@ db.sqlite3
 /static
 
 /00-Files
+
+/virtual
+
 .DS_Store
